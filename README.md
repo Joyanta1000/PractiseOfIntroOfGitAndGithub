@@ -1,2 +1,4 @@
 # PractiseForIntroOfGitAndGithub
 Practise of git and github lab assessment
+I am editing the README file. Adding some more details about the project description.
+
